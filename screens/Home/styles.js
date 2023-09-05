@@ -12,8 +12,9 @@ export default styles = StyleSheet.create({
     fontWeight: 'bold', 
     marginTop: 48
     },  
-    groupDate: {color: '#6b6b6b', 
-    fontSize: 16},
+    groupDate: {
+      color: '#6b6b6b', 
+      fontSize: 16},
     input: {
       backgroundColor: '#1f1e25',
       height: 56,
